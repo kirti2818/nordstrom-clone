@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.slider{
+  margin: auto;
+  position: relative;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  margin-top: 40px;
+}
+
+.slide-track{
+  display: flex;
+  width: calc(550px * 18);
+  animation-name: scroll;
+  animation-duration:100s;
+  animation-iteration-count:infinite;
+}
+
+.slide-track:hover{
+  animation-play-state: paused;
+}
+
+@keyframes scroll {
+  0%{
+    transform: translateX(0);
+  }
+  100%{
+    transform: translateX(calc(-950px * 9));
+  }
+}
+
+.slide{
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  perspective: 100px;
+}
+
+.img{
+ 
+  width: 100%;
+  transition: .7s;
+}
+
+.img:hover{
+ 
+  transition:0.7s ease-in-out ;
+  transform: translateZ(20px);
+
+}
+
+.slider::before,.slider::after{
+  /* background:linear-gradient(to right,rgba(225,225,225,1)0%, rgba(225,225,225,0),100% ); */
+  /* content: ''; */
+  height: 100%;
+  position: absolute;
+  /* width: 15%; */
+  z-index: 2;
+}
+.slider::before{
+  left: 0;
+  top: 0;
+}
+.slider::after{
+  right: 0;
+  top: 0;
+  transform: rotateZ(180deg);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ImageContainer{
+  margin: 10px 10px;
+  overflow: hidden;
+  border-radius: 9px;
+}
+.wrapper{
+  /* width: 100%; */
+  display: flex;
+  animation: slide 16s infinite;
+}
+
+@keyframes slide{
+  0%{
+    transform: translateX(0);
+  }
+  25%{
+    transform: translateX(0);
+  }
+  30%{
+    transform: translateX(-100%);
+  }
+  50%{
+    transform: translateX(-100%);
+  }
+  55%{
+    transform: translateX(-200%);
+  }
+  90%{
+    transform: translateX(-200%);
+  }
+  100%{
+    transform: translateX(0);
+  }
+  /* 80%{
+    transform:translateX(-300%);
+  }
+  100%{
+    transform: translateX(-300%)
+  } */
+}
