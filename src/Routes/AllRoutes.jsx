@@ -6,6 +6,8 @@ import SignUp from "../signup/Signup.jsx"
 import Women from "../Women/Women"
 import { SingleProduct } from "../SingleProduct/SingleProduct.jsx"
 import Cart from "../cart/Cart"
+import Kids from "../kids/Kids.jsx"
+import Active from "../active/active.jsx"
 import Purchase from "../purchase/Purchase"
 export default function(){
     return(
@@ -18,8 +20,8 @@ export default function(){
         <Route path="/SingleProduct/:id" element={<SingleProduct/>} />
         <Route path="/cart" element={<Cart/>} />
         <Route path="/purchase" element={<Purchase/>} />
-        {/* <Route path="/kids" element={<Kids/>} />
-        <Route path="/activeWear" element={<ActiveWear/>} /> */}
+        <Route path="/kids" element={<Kids/>} />
+        <Route path="/activeWear" element={<Active/>} />
        </Routes>
     )
 }

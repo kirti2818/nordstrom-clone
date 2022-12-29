@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "63a98f0753508b3e67c0c650",
+    "front_image": "https://i.postimg.cc/Wz38nkLx/kid1.webp",
+    "company_name": "The North Face",
+    "product_name": "Baby Bear Hooded Fleece Jacket (Baby)",
+    "current_front_price": "INR 5,073.82",
+    "price": 5073.82,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c651",
+    "type": "kid",
+    "front_image": "https://i.postimg.cc/tRS004VD/kid2.webp",
+    "company_name": "The North Face",
+    "product_name": "Baby Bear Jumpsuit (Baby)",
+    "current_front_price": "INR 4,755.63",
+    "price": 4755.63,
+    "off_percent": "(30% off)",
+    "previous_front_price": "INR 6,793.76"
+},
+{
+    "_id": "63a98f0753508b3e67c0c652",
+    "front_image": "https://i.postimg.cc/VksDzqQC/kid3.webp",
+    "company_name": "The North Face",
+    "product_name": "ThermoBall™ One-Piece Snowsuit (Baby)",
+    "current_front_price": "INR 7,163.54",
+    "price": 7163.54,
+    "off_percent": "(30% off)",
+    "previous_front_price": "INR 10,233.63",
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c653",
+    "front_image": "https://i.postimg.cc/nzKDsWqc/kid4.webp",
+    "company_name": "L.L.Bean",
+    "product_name": "Print High Pile Fleece Bunting",
+    "current_front_price": "INR 4,725.53",
+    "price": 4725.53,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c654",
+    "front_image": "https://i.postimg.cc/nrYgPnBb/kid5.webp",
+    "company_name": "The North Face",
+    "product_name": "Baby Bear Full Zip Hoodie (Baby)",
+    "current_front_price": "INR 5,073.82",
+    "price": 5073.82,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c655",
+    "front_image": "https://i.postimg.cc/QMfgNCZx/kid6.webp",
+    "company_name": "Nordstrom",
+    "product_name": "Baby Print Bunting (Baby)",
+    "current_front_price": "INR 2,515.41",
+    "off_percent": "(35% off)",
+    "previous_front_price": "INR 3,869.86",
+    "price": 2515.41,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c656",
+    "front_image": "https://i.postimg.cc/3rXR26W2/kid7.webp",
+    "company_name": "Nike",
+    "product_name": "Logo Graphic Sweatshirt & Print Leggings Set (Baby)",
+    "current_front_price": "INR 4,299.85",
+    "price": 4299.85,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c657",
+    "front_image": "https://i.postimg.cc/qR0frm0d/kid8.webp",
+    "company_name": "L.L.Bean",
+    "product_name": "Kids' Mountain Bound Reversible Hooded Recycled Polyester Jacket",
+    "current_front_price": "INR 7,653.72",
+    "price": 7653.72,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c658",
+    "front_image": "https://i.postimg.cc/QMhSxvBS/kid9.webp",
+    "company_name": "The North Face",
+    "product_name": "1996 Retro Nuptse 700 Fill Power Down Bunting (Baby)",
+    "current_front_price": "INR 13,673.51",
+    "type": "kid",
+    "price": 13673.51
+},
+{
+    "_id": "63a98f0753508b3e67c0c659",
+    "front_image": "https://i.postimg.cc/CMcKv8HK/kid10.webp",
+    "company_name": "Kyte BABY",
+    "product_name": "Zip-Up Footie (Baby)",
+    "current_front_price": "INR 2,837.04",
+    "type": "kid",
+    "price": 2873.04
+},
+{
+    "_id": "63a98f0753508b3e67c0c65a",
+    "front_image": "https://i.postimg.cc/dtTK8Z5p/kid11.webp",
+    "company_name": "Nordstrom",
+    "product_name": "Baby Print Footie (Baby)",
+    "current_front_price": "INR 1,062.06 – INR 1,225.46",
+    "off_percent": "(35% off)",
+    "previous_front_price": "INR 1,633.94",
+    "price": 1062.06,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c65b",
+    "front_image": "https://i.postimg.cc/vBH4BtLp/kid12.webp",
+    "company_name": "Nike",
+    "product_name": "Fleece Jacket & Leggings (Baby)",
+    "current_front_price": "INR 5,159.81",
+    "price": 5159.81,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c65c",
+    "front_image": "https://i.postimg.cc/gk96y8Y6/kid13.webp",
+    "company_name": "FIRSTS by Petit Lem",
+    "product_name": "Winter Jasmine Stretch Organic Cotton Dress & Leggings Set (Baby)",
+    "current_front_price": "INR 4,127.85",
+    "price": 4127.85,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c65d",
+    "front_image": "https://i.postimg.cc/jjzZ4tfz/kid14.webp",
+    "type": "kid",
+    "company_name": "The North Face",
+    "product_name": "Kids' Glacier Zip Hoodie (Baby)",
+    "current_front_price": "INR 3,009.89",
+    "price": 3009.89
+},
+{
+    "_id": "63a98f0753508b3e67c0c65e",
+    "front_image": "https://i.postimg.cc/pT42KwFM/kid15.webp",
+    "company_name": "Nordstrom",
+    "product_name": "Assorted 2-Pack Ankle Socks (Baby)",
+    "current_front_price": "INR 464.38",
+    "type": "kid",
+    "off_percent": "(55% off)",
+    "previous_front_price": "INR 1,031.96",
+    "price": 464.38
+},
+{
+    "_id": "63a98f0753508b3e67c0c65f",
+    "front_image": "https://i.postimg.cc/W17j3FpZ/kid16.webp",
+    "type": "kid",
+    "company_name": "L.L.Bean",
+    "product_name": "Zip Fleece Sweater Hoodie",
+    "current_front_price": "INR 5,073.82",
+    "price": 5073.82
+},
+{
+    "_id": "63a98f0753508b3e67c0c660",
+    "front_image": "https://i.postimg.cc/156pVPqP/kid17.webp",
+    "type": "kid",
+    "company_name": "Tucker + Tate",
+    "product_name": "Glitter Romper (Baby)",
+    "current_front_price": "INR 1,509.25 – INR 2,683.10",
+    "off_percent": "(55% off)",
+    "previous_front_price": "INR 3,353.88",
+    "price": 1509.25
+},
+{
+    "_id": "63a98f0753508b3e67c0c661",
+    "front_image": "https://i.postimg.cc/brdd00J4/kid18.webp",
+    "type": "kid",
+    "company_name": "FIRSTS by Petit Lem",
+    "product_name": "Check Organic Cotton Long Sleeve Dress & Tights Set (Baby)",
+    "current_front_price": "INR 4,643.83",
+    "price": 4643.83
+},
+{
+    "_id": "63a98f0753508b3e67c0c662",
+    "front_image": "https://i.postimg.cc/xjWbG7vR/kid19.webp",
+    "company_name": "Nordstrom",
+    "product_name": "Everyday Crewneck Sweatshirt (Baby)",
+    "current_front_price": "INR 1,891.93",
+    "price": 1891.93,
+    "type": "kid"
+},
+{
+    "_id": "63a98f0753508b3e67c0c663",
+    "front_image": "https://i.postimg.cc/DztnFNT9/kid20.webp",
+    "company_name": "Nordstrom",
+    "product_name": "Everyday Organic Cotton Cardigan (Baby)",
+    "current_front_price": "INR 2,493.91",
+    "price": 2493.91,
+    "type": "kid"
+}]
+   

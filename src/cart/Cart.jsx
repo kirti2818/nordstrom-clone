@@ -26,7 +26,7 @@ export default function Cart() {
         cartitemdata && cartitemdata.map((el)=>{
             sum=sum+el.price;
         })
-        setPaise(sum)
+        setPaise(Math.floor(sum))
         console.log(sum)
     }
     const handleCheckOut = ()=>{
@@ -62,7 +62,7 @@ export default function Cart() {
                             <Text fontSize={{ base: "15px", sm: "15px", md: "18px", lg: "28px" }} fontWeight={"bold"}>{el.company_name}</Text>
             <Text color="gray.600" fontSize={{ base: "13px", sm: "15px", md: "17px", lg: "22px" }} fontFamily={"Mukta', sans-serif"}>{el.product_name}</Text>
 
-            {el.previous_front_price ? <Flex flexDirection={"column"}><HStack><Text fontSize={{ base: "13px", sm: "15px", md: "19px", lg: "20px" }} fontWeight={"bold"} color="#d61f27">{el.current_front_price}</Text><Text color="#d61f27" noOfLines={"1"}>{el.off_percent}</Text></HStack><strike style={{ color: "black", fontWeight: "bold" }}>{el.previous_front_price}</strike></Flex> : <Box><Text fontSize={{ base: "13px", sm: "15px", md: "19px", lg: "20px" }} fontWeight={"bold"} color="black">{el.current_front_price}</Text></Box>}
+            {el.previous_front_price ? <Flex flexDirection={"column"}><Text fontSize={{ base: "13px", sm: "15px", md: "19px", lg: "20px" }} fontWeight={"bold"} color="#d61f27">{el.current_front_price}</Text><strike style={{ color: "black",fontSize : "14px", fontWeight: "bold"  }}>{el.previous_front_price}</strike></Flex> : <Box><Text fontSize={{ base: "13px", sm: "15px", md: "19px", lg: "20px" }} fontWeight={"bold"} color="black">{el.current_front_price}</Text></Box>}
                             </Box>
                         </HStack>
                     </Flex>
@@ -72,12 +72,12 @@ export default function Cart() {
                       }
                     
                 </Box>
-                <Flex>
-                <HStack><Image w={{lg:"350px",md:"300px",sm:"200px"}} src = "https://i.postimg.cc/rwkD4y6L/payment-Image.png" alt="error" /></HStack>
+                <Flex gap={"15px"}>
+                <HStack><Image w={{base:"200px",sm:"200px",md:"300px",lg:"350px"}} src = "https://i.postimg.cc/rwkD4y6L/payment-Image.png" alt="error" /></HStack>
                 <Spacer/>
                 <HStack>
-                <Button w={{base:null,sm:"200px",md:"200px",lg:"200px"}} colorScheme='red' onClick={onOpen}>
-                Proceed To checkout ₹ {paise}
+                <Button size={{base:"xs",sm:"sm",md:"md",lg:"md"}} fontSize={{base:"10px",sm:"13px",md:"16px",lg:"16px"}} colorScheme='red' onClick={onOpen}>
+                Proceed To checkout ₹ {paise} 
                 
       </Button>
 

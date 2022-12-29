@@ -1,5 +1,4 @@
-{
-    "products":[
+[
         {
             "front_image":"https://n.nordstrommedia.com/id/sr3/1fb1959e-45c5-4c03-abd6-1993aae2b8c0.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2" ,
             "back_image":"https://n.nordstrommedia.com/id/sr3/e8ad26aa-d31b-4161-b26a-c4012aea1dfe.jpeg?h=365&w=240&dpr=2" ,
@@ -8,7 +7,8 @@
             "current_front_price":"INR 8,419.10 ",
             "previous_front_price":"INR 12,035.27 ",
             "off_percent":"(30% off)",
-            "price":8419.10
+            "price":8419.10,
+            "type":"shoes"
 
         },
         {
@@ -19,7 +19,8 @@
             "current_front_price":"INR 12,898.68",
             "previous_front_price":"INR 19,607.29",
             "off_percent":"(34% off)",
-            "price":12898.68
+            "price":12898.68,
+            "type":"shoes"
 
         },
         {
@@ -28,7 +29,8 @@
             "company_name":"BADGLEY MISCHKA COLLECTION",
             "product_name":"Remi Sandal Heel",
             "current_front_price":"INR 20,209.27",
-            "price":20209.27
+            "price":20209.27,
+            "type":"shoes"
 
         },
         {
@@ -37,7 +39,7 @@
             "company_name":"BADGLEY MISCHKA COLLECTION",
             "product_name":"Finesse Ankle Heel Sandal",
             "current_front_price":"INR 21,069.24",
-            
+            "type":"shoes",
             "price":21069.24
 
         },
@@ -49,7 +51,8 @@
             "current_front_price":"INR 8,255.70",
             "previous_front_price":"INR 13,755.20",
             "off_percent":"(42% off)",
-            "price":8255.70
+            "price":8255.70,
+            "type":"shoes"
 
         },
         {
@@ -60,7 +63,7 @@
             "current_front_price":"INR 4,298.99",
             "previous_front_price":"INR 6,875.45",
             "off_percent":"(37% off)",
-            "price":4298.99
+            "price":4298.99,"type":"shoes"
 
         },
         {
@@ -71,7 +74,8 @@
             "current_front_price":"INR 4,211.27",
             "previous_front_price":"INR 11,175.30",
             "off_percent":"(62% off )",
-            "price":4211.27
+            "price":4211.27,
+            "type":"shoes"
 
         },
         {
@@ -82,7 +86,7 @@
             "current_front_price":"INR 4,815.83",
             "previous_front_price":"INR 12,039.57",
             "off_percent":"(60% off)",
-            "price":4815.83
+            "price":4815.83,"type":"shoes"
 
         },
         {
@@ -93,7 +97,8 @@
             "current_front_price":"INR 13,544.51",
             "previous_front_price":"INR 18,059.35",
             "off_percent":"(25% off)",
-            "price":13544.51
+            "price":13544.51,
+            "type":"shoes"
 
         },
         {
@@ -102,7 +107,7 @@
             "company_name":"UGG®",
             "product_name":"Neumel Chelsea Boot",
             "current_front_price":"INR 12,035.27",
-            
+            "type":"shoes",
             "price":12035.27
 
         },
@@ -112,7 +117,7 @@
             "company_name":"JOHNSTON & MURPHY",
             "product_name":"Barrett Water Resistant Boot",
             "current_front_price":"INR 15,909.43",
-            
+            "type":"shoes",
             "price":15909.43
 
         },
@@ -122,7 +127,7 @@
             "company_name":"BP.",
             "product_name":"Water Resistant Chelsea Boot",
             "current_front_price":"INR 8,595.39",
-           
+            "type":"shoes",
             "price":8595.39
 
         },
@@ -134,7 +139,8 @@
             "current_front_price":"INR 10,964.60",
             "previous_front_price":"INR 14,619.47",
             "off_percent":"(25% off)",
-            "price":10964.60
+            "price":10964.60,
+            "type":"shoes"
 
         },
         {
@@ -144,8 +150,8 @@
             "product_name":"UGG Emmett Waterproof Snow Boot",
             "current_front_price":"INR 12,035.27",
            
-            "price":12035.27
-
+            "price":12035.27,
+            "type":"shoes"
         },
         {
             "front_image":"https://n.nordstrommedia.com/id/sr3/ae92e477-26fe-4536-a901-6835e2f1f534.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2" ,
@@ -153,7 +159,7 @@
             "company_name":"JOHNSTON & MURPHY",
             "product_name":"Upton Chukka Boot",
             "current_front_price":"INR 14,189.49",
-           
+            "type":"shoes",
             "price":14189.49
 
         },
@@ -165,7 +171,8 @@
             "current_front_price":"INR 3,868.14",
             "previous_front_price":"INR 7,735.42",
             "off_percent":"(49% off)",
-            "price":3868.14
+            "price":3868.14,
+            "type":"shoes"
 
         },
         {
@@ -174,7 +181,7 @@
             "company_name":"ON",
             "product_name":"Cloud 5 Running Shoe (Women)",
             "current_front_price":"INR 12,038.71",
-            
+            "type":"shoes",
             "price":12038.71
 
         },
@@ -184,7 +191,7 @@
             "company_name":"HOKA",
             "product_name":"Clifton 8 Running Shoe (Women)",
             "current_front_price":"INR 12,039.57",
-            
+            "type":"shoes",
             "price":12039.57
 
         },
@@ -194,7 +201,7 @@
             "company_name":"RAG & BONE",
             "product_name":"Retro Hiker Mid Top Sneaker (Women)",
             "current_front_price":"INR 25,369.09",
-            
+            "type":"shoes",
             "price":25369.09
 
         },
@@ -202,6 +209,7 @@
             "front_image":"https://n.nordstrommedia.com/id/sr3/b3afeb26-4aa1-4869-ba78-9897e59ffb64.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2" ,
             "back_image":"https://n.nordstrommedia.com/id/sr3/bad54db9-05b7-4c83-837e-0c3f78b8a30e.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2" ,
             "company_name":"NIKE",
+            "type":"shoes",
             "product_name":"Daybreak Sneaker (Women)",
             "current_front_price":"INR 6,962.31",
             "previous_front_price":"INR 7,739.72",
@@ -213,6 +221,7 @@
             "front_image": "https://n.nordstrommedia.com/id/sr3/8bf4d5a2-4711-4b16-9dea-a47e9b0bfcef.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
             "back_image":"https://n.nordstrommedia.com/id/sr3/f750fbe7-fd0f-4116-979e-7dbe12d75bf0.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2" ,
             "company_name":"NIKE",
+            "type":"shoes",
             "product_name":"Spark Sneaker",
             "current_front_price":"INR 11,179.60",
            
@@ -225,7 +234,7 @@
             "company_name":"JORDAN",
             "product_name":"Nike Air Jordan 11 Retro Sneaker",
             "current_front_price":"INR 19,349.30",
-           
+            "type":"shoes",
             "price":19349.30
 
         },
@@ -235,7 +244,7 @@
             "company_name":"NIKE",
             "product_name":"Air Zoom Pegasus 39 Running Shoe (Women)",
             "current_front_price":"INR 10,319.63",
-            
+            "type":"shoes",
             "price":10319.63
 
         },
@@ -245,7 +254,7 @@
             "company_name":"NIKE",
             "product_name":"Blazer Mid '77 High Top Sneaker",
             "current_front_price":"INR 9,029.67",
-            
+            "type":"shoes",
             "price":9029.67
 
         },
@@ -257,7 +266,8 @@
             "current_front_price":"INR 6,011.18",
             "previous_front_price":"INR 8,599.69",
             "off_percent":"(30% off)",
-            "price":6011.18
+            "price":6011.18,
+            "type":"shoes"
 
         },
         {
@@ -266,7 +276,7 @@
             "company_name":"UGG®",
             "product_name":"Shearling Lined Boot",
             "current_front_price":"INR 12,899.54",
-            
+            "type":"shoes",
             "price":12899.54
 
         },
@@ -276,7 +286,7 @@
             "company_name":"UGG®",
             "product_name":"Ultra Mini Classic Boot",
             "current_front_price":"INR 12,039.57",
-           
+            "type":"shoes",
             "price":12039.57
 
         },
@@ -286,7 +296,7 @@
             "company_name":"UGG®",
             "product_name":"Tazz Mule",
             "current_front_price":"INR 10,319.63",
-            
+            "type":"shoes",
             "price":10319.63
 
         },
@@ -298,7 +308,8 @@
             "current_front_price":"INR 4,299.85",
             "previous_front_price":"INR 8,599.69",
             "off_percent":"(50% off)",
-            "price":8599.69
+            "price":8599.69,
+            "type":"shoes"
 
         },
         {
@@ -307,7 +318,7 @@
             "company_name":"BADGLEY MISCHKA COLLECTION",
             "product_name":"Sophie Ankle Strap Platform Sandal",
             "current_front_price":"INR 20,209.27",
-          
+            "type":"shoes",
             "price":20209.27
 
         },
@@ -319,7 +330,8 @@
             "current_front_price":"INR 7,215.14",
             "previous_front_price":"INR 10,319.63 ",
             "off_percent":"(30% off)",
-            "price":7215.14
+            "price":7215.14,
+            "type":"shoes"
 
         },
         {
@@ -330,8 +342,8 @@
             "current_front_price":"INR 5,158.95",
             "previous_front_price":"INR 8,595.39",
             "off_percent":"(39% off)",
-            "price":5158.95
+            "price":5158.95,
+            "type":"shoes"
 
         }
-    ]
-}
+]
