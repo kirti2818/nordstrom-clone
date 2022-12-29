@@ -30,7 +30,7 @@ export default function Navbar() {
                     <Input  h={{sm:"30px",md:"35px",lg:"50px"}}  fontSize={{sm:"13px",md:"15px",lg:"18px"}} type='text' placeholder='Search for products and brands' />
                 </InputGroup>
                 <Flex w={{sm:"100%",md:"50%",lg:"50%"}} gap={"10px"} justifyContent={"space-between"} fontSize= {{sm:"12px",md:"16px",lg:"18px"}}>
-                    <HStack><Text>Sign In</Text></HStack>
+                    <HStack><Link to = "/signup"><Text>Sign In</Text></Link></HStack>
                     <HStack><Link to = "/cart"><Icon fontSize={{sm:"18px",md:"22px",lg:"28px"}} as ={BsBagPlus} /></Link><Link to = "/cart"><Text>Purshases</Text></Link></HStack>
                     <HStack><Icon fontSize={{sm:"18px",md:"22px",lg:"35px"}} as={HiOutlineCube}/></HStack>
                     <Box></Box>
@@ -38,13 +38,13 @@ export default function Navbar() {
             </Flex>
             <Flex fontSize={{sm:"16px",md:"20px",lg:"20px"}}>
             <Spacer/>
-                <HStack><Link to="/women">Women</Link></HStack>
-                <Spacer/>
                 <HStack><Link to = "/men">Men</Link></HStack>
+                <Spacer/>
+                <HStack><Link to="/women">Women</Link></HStack> 
                 <Spacer/>
                 <HStack><Link to = "kids">Kids</Link></HStack>
                 <Spacer/>
-                <HStack><Link to = "/activeWear">Active Wear</Link></HStack>
+                <HStack><Link to = "/activeWear">Foot Wear</Link></HStack>
                 <Spacer/>
             </Flex>
         </Box>
@@ -52,9 +52,9 @@ export default function Navbar() {
                 <Box p={"10px"}>
                     <Flex gap={"20px"}>
                         <HStack><HamburgerIcon onClick={onOpen} fontSize={"20px"} /></HStack>
-                        <HStack><Image width={"130px"} src ="https://n.nordstrommedia.com/alias/nordstrom-logo.svg"/></HStack>
+                        <Link to="/"><HStack><Image width={"130px"} src ="https://n.nordstrommedia.com/alias/nordstrom-logo.svg"/></HStack></Link>
                         <Spacer/>
-                        <HStack><Icon fontSize = {"20px"} as ={BsBagPlus} /></HStack>
+                        <HStack><Link to="/cart"><Icon fontSize = {"20px"} as ={BsBagPlus} /></Link></HStack>
                     </Flex>
                     <InputGroup border={"1px solid black"}   marginTop={"12px"} >
                     <InputLeftElement
@@ -67,24 +67,24 @@ export default function Navbar() {
                 <Drawer  size={{base:"xs"}} placement={placement}  onClose={onClose} isOpen={isOpen}>
         <DrawerOverlay/>
         <DrawerContent onClick={onClose} border={"1px solid red"} >
-          <DrawerHeader  borderBottomWidth='1px'>Basic Drawer</DrawerHeader>
+          <DrawerHeader  borderBottomWidth='1px'><Link to="/"><HStack><Image width={"130px"} src ="https://n.nordstrommedia.com/alias/nordstrom-logo.svg"/></HStack></Link></DrawerHeader>
           <DrawerBody>
-            <p>Some contents...</p>
-            <p>Some contents...</p>
-            <p>Some contents...</p>
+            <Link to = "/signup"><Text fontSize={"20px"} fontWeight={"700"}>Sign Up</Text></Link>
+            <Link to = "/cart"><Text fontWeight={"700"} fontSize={"20px"}>Purchases</Text></Link>
+            <Text fontWeight={"700"}  fontSize={"20px"}>Payment</Text>
           </DrawerBody>
         </DrawerContent>
       </Drawer>
 
       <Flex fontSize={"13px"}>
                 <Spacer/>
-                <HStack><Link>Women</Link></HStack>
+                <HStack><Link to="/men">Men</Link></HStack>
                 <Spacer/>
-                <HStack><Link>Men</Link></HStack>
+                <HStack><Link to="/women">Women</Link></HStack>
                 <Spacer/>
-                <HStack><Link>Kids</Link></HStack>
+                <HStack><Link to="kids">Kids</Link></HStack>
                 <Spacer/>
-                <HStack><Link>Active Wear</Link></HStack>
+                <HStack><Link to="activeWear">Foot Wear</Link></HStack>
                 <Spacer/>
             </Flex>
                    

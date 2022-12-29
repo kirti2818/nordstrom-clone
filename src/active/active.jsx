@@ -1,26 +1,26 @@
 
 import { useDispatch, useSelector } from "react-redux"
-import { womenAllProduct, sortingByPrice } from "../redux/action"
+import { activeAllProduct } from "../redux/action"
+import {Link} from "react-router-dom"
 
 import { useEffect } from "react"
 import { Box, SimpleGrid, Image, Text, Center, Flex, HStack, Select } from "@chakra-ui/react"
 import { useState } from "react"
-import {Link} from "react-router-dom"
 
-export default function Women() {
-    const { data } = useSelector((store) => store.nordstromData)
+export default function Active() {
+    const  data= useSelector((store) => store.nordstromData.data)
     const dispatch = useDispatch()
     const[sortByPrice,setSortByPrice] = useState("")
     // console.log(data)
     useEffect(() => {
-        dispatch(womenAllProduct(sortByPrice))
+        dispatch(activeAllProduct(sortByPrice))
     }, [sortByPrice])
 
     const handleSorting=(e)=>{
         setSortByPrice(e.target.value)
         // console.log(e.target.value)
     }
-    
+    console.log(data)
     
     return (
         <>
@@ -36,7 +36,7 @@ export default function Women() {
                         <Box  position={"relative"}  boxShadow={"lg"} border={"2px solid #f7f7f7"}>
                             <Center>
                                 <Image w={{ base: "90%", sm: "70%", md: "80%", lg: "75%" }} src={el.front_image} />
-                                {/* <Image  position={"absolute"} _hover={{opacity:"1"}}  opacity={"0"}  w={{ base: "90%", sm: "70%", md: "80%", lg: "75%" }} src={el.back_image} /> */}
+                                <Image  position={"absolute"} _hover={{opacity:"1"}}  opacity={"0"}  w={{ base: "90%", sm: "70%", md: "80%", lg: "75%" }} src={el.back_image} />
                                 
                             </Center>
                         </Box>

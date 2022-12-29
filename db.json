@@ -594,7 +594,8 @@
       "product_name": "Performance Joggers",
       "current_front_price": "INR 8,083.71",
       "price": 8083.71,
-      "type": "womenActiveWear"
+      "type": "womenActiveWear",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/4429bf87-78b1-4655-852b-e3dee70cc62e.jpeg?h=365&w=240&dpr=2"
     },
     {
       "_id": "63773ce9b507e722d58dd098",
@@ -1088,9 +1089,735 @@
       "product_name": "Clean Elevation High Waist 7/8 Leggings",
       "current_front_price": "INR 8,427.70",
       "price": 8427.7
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c650",
+      "front_image": "https://i.postimg.cc/Wz38nkLx/kid1.webp",
+      "company_name": "The North Face",
+      "product_name": "Baby Bear Hooded Fleece Jacket (Baby)",
+      "current_front_price": "INR 5,073.82",
+      "price": 5073.82,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c651",
+      "type": "kid",
+      "front_image": "https://i.postimg.cc/tRS004VD/kid2.webp",
+      "company_name": "The North Face",
+      "product_name": "Baby Bear Jumpsuit (Baby)",
+      "current_front_price": "INR 4,755.63",
+      "price": 4755.63,
+      "off_percent": "(30% off)",
+      "previous_front_price": "INR 6,793.76"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c652",
+      "front_image": "https://i.postimg.cc/VksDzqQC/kid3.webp",
+      "company_name": "The North Face",
+      "product_name": "ThermoBall™ One-Piece Snowsuit (Baby)",
+      "current_front_price": "INR 7,163.54",
+      "price": 7163.54,
+      "off_percent": "(30% off)",
+      "previous_front_price": "INR 10,233.63",
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c653",
+      "front_image": "https://i.postimg.cc/nzKDsWqc/kid4.webp",
+      "company_name": "L.L.Bean",
+      "product_name": "Print High Pile Fleece Bunting",
+      "current_front_price": "INR 4,725.53",
+      "price": 4725.53,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c654",
+      "front_image": "https://i.postimg.cc/nrYgPnBb/kid5.webp",
+      "company_name": "The North Face",
+      "product_name": "Baby Bear Full Zip Hoodie (Baby)",
+      "current_front_price": "INR 5,073.82",
+      "price": 5073.82,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c655",
+      "front_image": "https://i.postimg.cc/QMfgNCZx/kid6.webp",
+      "company_name": "Nordstrom",
+      "product_name": "Baby Print Bunting (Baby)",
+      "current_front_price": "INR 2,515.41",
+      "off_percent": "(35% off)",
+      "previous_front_price": "INR 3,869.86",
+      "price": 2515.41,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c656",
+      "front_image": "https://i.postimg.cc/3rXR26W2/kid7.webp",
+      "company_name": "Nike",
+      "product_name": "Logo Graphic Sweatshirt & Print Leggings Set (Baby)",
+      "current_front_price": "INR 4,299.85",
+      "price": 4299.85,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c657",
+      "front_image": "https://i.postimg.cc/qR0frm0d/kid8.webp",
+      "company_name": "L.L.Bean",
+      "product_name": "Kids' Mountain Bound Reversible Hooded Recycled Polyester Jacket",
+      "current_front_price": "INR 7,653.72",
+      "price": 7653.72,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c658",
+      "front_image": "https://i.postimg.cc/QMhSxvBS/kid9.webp",
+      "company_name": "The North Face",
+      "product_name": "1996 Retro Nuptse 700 Fill Power Down Bunting (Baby)",
+      "current_front_price": "INR 13,673.51",
+      "type": "kid",
+      "price": 13673.51
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c659",
+      "front_image": "https://i.postimg.cc/CMcKv8HK/kid10.webp",
+      "company_name": "Kyte BABY",
+      "product_name": "Zip-Up Footie (Baby)",
+      "current_front_price": "INR 2,837.04",
+      "type": "kid",
+      "price": 2873.04
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c65a",
+      "front_image": "https://i.postimg.cc/dtTK8Z5p/kid11.webp",
+      "company_name": "Nordstrom",
+      "product_name": "Baby Print Footie (Baby)",
+      "current_front_price": "INR 1,062.06 – INR 1,225.46",
+      "off_percent": "(35% off)",
+      "previous_front_price": "INR 1,633.94",
+      "price": 1062.06,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c65b",
+      "front_image": "https://i.postimg.cc/vBH4BtLp/kid12.webp",
+      "company_name": "Nike",
+      "product_name": "Fleece Jacket & Leggings (Baby)",
+      "current_front_price": "INR 5,159.81",
+      "price": 5159.81,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c65c",
+      "front_image": "https://i.postimg.cc/gk96y8Y6/kid13.webp",
+      "company_name": "FIRSTS by Petit Lem",
+      "product_name": "Winter Jasmine Stretch Organic Cotton Dress & Leggings Set (Baby)",
+      "current_front_price": "INR 4,127.85",
+      "price": 4127.85,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c65d",
+      "front_image": "https://i.postimg.cc/jjzZ4tfz/kid14.webp",
+      "type": "kid",
+      "company_name": "The North Face",
+      "product_name": "Kids' Glacier Zip Hoodie (Baby)",
+      "current_front_price": "INR 3,009.89",
+      "price": 3009.89
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c65e",
+      "front_image": "https://i.postimg.cc/pT42KwFM/kid15.webp",
+      "company_name": "Nordstrom",
+      "product_name": "Assorted 2-Pack Ankle Socks (Baby)",
+      "current_front_price": "INR 464.38",
+      "type": "kid",
+      "off_percent": "(55% off)",
+      "previous_front_price": "INR 1,031.96",
+      "price": 464.38
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c65f",
+      "front_image": "https://i.postimg.cc/W17j3FpZ/kid16.webp",
+      "type": "kid",
+      "company_name": "L.L.Bean",
+      "product_name": "Zip Fleece Sweater Hoodie",
+      "current_front_price": "INR 5,073.82",
+      "price": 5073.82
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c660",
+      "front_image": "https://i.postimg.cc/156pVPqP/kid17.webp",
+      "type": "kid",
+      "company_name": "Tucker + Tate",
+      "product_name": "Glitter Romper (Baby)",
+      "current_front_price": "INR 1,509.25 – INR 2,683.10",
+      "off_percent": "(55% off)",
+      "previous_front_price": "INR 3,353.88",
+      "price": 1509.25
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c661",
+      "front_image": "https://i.postimg.cc/brdd00J4/kid18.webp",
+      "type": "kid",
+      "company_name": "FIRSTS by Petit Lem",
+      "product_name": "Check Organic Cotton Long Sleeve Dress & Tights Set (Baby)",
+      "current_front_price": "INR 4,643.83",
+      "price": 4643.83
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c662",
+      "front_image": "https://i.postimg.cc/xjWbG7vR/kid19.webp",
+      "company_name": "Nordstrom",
+      "product_name": "Everyday Crewneck Sweatshirt (Baby)",
+      "current_front_price": "INR 1,891.93",
+      "price": 1891.93,
+      "type": "kid"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c663",
+      "front_image": "https://i.postimg.cc/DztnFNT9/kid20.webp",
+      "company_name": "Nordstrom",
+      "product_name": "Everyday Organic Cotton Cardigan (Baby)",
+      "current_front_price": "INR 2,493.91",
+      "price": 2493.91,
+      "type": "kid"
+    },
+    {
+      "_id": "6373cfda9f80e92a393441be",
+      "front_image": "https://i.postimg.cc/43Jn0VQ6/m11.webp",
+      "back_image": "https://i.postimg.cc/4x0FLQgM/m11-11.webp",
+      "company_name": "Nike",
+      "type": "active",
+      "product_name": "Dri-FIT Static Training T-Shirt",
+      "current_front_price": "INR 2,063.93",
+      "price": 2063.93,
+      "off_percent": "(40% off)",
+      "previous_front_price": "INR 3,439.88"
+    },
+    {
+      "_id": "6373cfda9f80e92a393441bf",
+      "front_image": "https://i.postimg.cc/vmBxB5xQ/m12.webp",
+      "back_image": "https://i.postimg.cc/4x3xbsfP/m12-12.webp",
+      "company_name": "adidas Originals",
+      "type": "active",
+      "product_name": "Trefoil 6-Pack No-Show Socks",
+      "current_front_price": "INR 859.97",
+      "price": 859.97,
+      "off_percent": "(50% off)",
+      "previous_front_price": "INR 1,719.94"
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c0",
+      "front_image": "https://i.postimg.cc/wx0K5J1K/m13.webp",
+      "back_image": "https://i.postimg.cc/QMkY8G5L/m13-13.webp",
+      "company_name": "Nike",
+      "type": "active",
+      "product_name": "Dri-FIT Vent Max Pants",
+      "current_front_price": "INR 4,298.99",
+      "price": 4298.99,
+      "off_percent": "(Up to 33% off select items)"
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c1",
+      "front_image": "https://i.postimg.cc/SKJLPBr7/m14.webp",
+      "back_image": "https://i.postimg.cc/vmfTDXHw/m14-14.webp",
+      "company_name": "The North Face",
+      "type": "active",
+      "product_name": "Cuchillo Water Resistant Full Zip Hoodie",
+      "current_front_price": "INR 15,393.45",
+      "price": 15393.45
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c2",
+      "front_image": "https://i.postimg.cc/Mp0mR0GV/m15.webp",
+      "back_image": "https://i.postimg.cc/QC50y2jn/m15-15.webp",
+      "company_name": "The North Face",
+      "type": "active",
+      "product_name": "Men's Nuptse® 1996 Packable Quilted Down Jacket",
+      "current_front_price": "INR 27,519.01",
+      "price": 27519.01
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c3",
+      "front_image": "https://i.postimg.cc/Qd0w1KS4/m16.webp",
+      "back_image": "https://i.postimg.cc/wTWQk58m/m16-16.webp",
+      "company_name": "The North Face",
+      "type": "active",
+      "product_name": "Thermoball™ Eco Packable Jacket",
+      "current_front_price": "INR 17,113.38",
+      "price": 17113.38
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c4",
+      "front_image": "https://i.postimg.cc/BnLHcdBr/m17.webp",
+      "back_image": "https://i.postimg.cc/76m5yVN1/m17-17.webp",
+      "company_name": "Nike",
+      "type": "active",
+      "product_name": "Sportswear Men's Club Pocket Fleece Joggers",
+      "current_front_price": "INR 4,729.83",
+      "price": 4729.83
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c5",
+      "front_image": "https://i.postimg.cc/6pJ5ggXJ/m18.webp",
+      "back_image": "https://i.postimg.cc/BnBLg41w/m18-18.webp",
+      "company_name": "Rhone",
+      "type": "active",
+      "product_name": "Delta Short Sleeve Piqué Performance Polo",
+      "current_front_price": "INR 5,297.41",
+      "price": 5297.41,
+      "off_percent": "(Up to 30% off select items)",
+      "previous_front_price": "INR 7,567.73"
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c6",
+      "front_image": "https://i.postimg.cc/9MRQvhr2/m19.webp",
+      "back_image": "https://www.nordstrom.com/s/vuori-ponto-performance-pants/4806425?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FActivewear&color=021",
+      "company_name": "vuori",
+      "type": "active",
+      "product_name": "Ponto Performance Pants",
+      "current_front_price": "INR 8,427.70",
+      "price": 8427.7
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c65e",
+      "front_image": "https://i.postimg.cc/pT42KwFM/kid15.webp",
+      "company_name": "Nordstrom",
+      "product_name": "Assorted 2-Pack Ankle Socks (Baby)",
+      "current_front_price": "INR 464.38",
+      "type": "active",
+      "off_percent": "(55% off)",
+      "previous_front_price": "INR 1,031.96",
+      "price": 464.38
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c65f",
+      "front_image": "https://i.postimg.cc/W17j3FpZ/kid16.webp",
+      "type": "active",
+      "company_name": "L.L.Bean",
+      "product_name": "Zip Fleece Sweater Hoodie",
+      "current_front_price": "INR 5,073.82",
+      "price": 5073.82
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c660",
+      "front_image": "https://i.postimg.cc/156pVPqP/kid17.webp",
+      "type": "active",
+      "company_name": "Tucker + Tate",
+      "product_name": "Glitter Romper (Baby)",
+      "current_front_price": "INR 1,509.25 – INR 2,683.10",
+      "off_percent": "(55% off)",
+      "previous_front_price": "INR 3,353.88",
+      "price": 1509.25
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c661",
+      "front_image": "https://i.postimg.cc/brdd00J4/kid18.webp",
+      "type": "active",
+      "company_name": "FIRSTS by Petit Lem",
+      "product_name": "Check Organic Cotton Long Sleeve Dress & Tights Set (Baby)",
+      "current_front_price": "INR 4,643.83",
+      "price": 4643.83
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c662",
+      "front_image": "https://i.postimg.cc/xjWbG7vR/kid19.webp",
+      "company_name": "Nordstrom",
+      "product_name": "Everyday Crewneck Sweatshirt (Baby)",
+      "current_front_price": "INR 1,891.93",
+      "price": 1891.93,
+      "type": "active"
+    },
+    {
+      "_id": "63a98f0753508b3e67c0c663",
+      "front_image": "https://i.postimg.cc/DztnFNT9/kid20.webp",
+      "company_name": "Nordstrom",
+      "product_name": "Everyday Organic Cotton Cardigan (Baby)",
+      "current_front_price": "INR 2,493.91",
+      "price": 2493.91,
+      "type": "active"
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c7",
+      "front_image": "https://i.postimg.cc/TPSRj4Q4/m20.webp",
+      "back_image": "https://i.postimg.cc/Y07BbKFb/m20-20.webp",
+      "company_name": "Zella",
+      "type": "active",
+      "product_name": "Pyrite Lite Pullover Hoodie",
+      "current_front_price": "INR 1,685.54",
+      "off_percent": "(60% off)",
+      "previous_front_price": "INR 4,213.85",
+      "price": 1685.54
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c8",
+      "front_image": "https://i.postimg.cc/FsPwJJTP/m21.webp",
+      "back_image": "https://www.nordstrom.com/s/zella-seamless-long-sleeve-t-shirt/5693467?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FActivewear&color=001",
+      "company_name": "Zella",
+      "product_name": "Seamless Long Sleeve T-Shirt",
+      "current_front_price": "INR 2,949.69",
+      "price": 2949.69,
+      "type": "active",
+      "off_percent": "(30% off)",
+      "previous_front_price": "INR 4,213.85"
+    },
+    {
+      "_id": "6373cfda9f80e92a393441c9",
+      "front_image": "https://i.postimg.cc/xdV5kfVx/m22.webp",
+      "back_image": "https://i.postimg.cc/Y07BbKFb/m20-20.webp",
+      "company_name": "The North Face",
+      "type": "active",
+      "product_name": "Heritage Patch Recycled Cotton Blend Hoodie",
+      "current_front_price": "INR 5,073.82",
+      "price": 5073.82
+    },
+    {
+      "_id": "63a996de53508b3e67c0c681",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/f07dbade-1621-4bd0-8b56-5a344aa67b86.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/100d8c46-3d00-497a-8a87-99d7cd81f3e1.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "UGG®",
+      "product_name": "Fluff Yeah Faux Fur Slingback Sandal",
+      "current_front_price": "INR 4,299.85",
+      "previous_front_price": "INR 8,599.69",
+      "off_percent": "(50% off)",
+      "price": 8599.69,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c682",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/0b429b0c-23f3-497c-ae54-f72501e8dd43.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/3f164a47-b5b5-492c-b86f-1f485e85c566.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "BADGLEY MISCHKA COLLECTION",
+      "product_name": "Sophie Ankle Strap Platform Sandal",
+      "current_front_price": "INR 20,209.27",
+      "type": "shoes",
+      "price": 20209.27
+    },
+    
+    {
+      "_id": "63a996de53508b3e67c0c667",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/67bbffc0-2900-4038-9e90-706b84b9b9b2.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/224375ce-a8dc-4363-a32c-440c2acf2ad5.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "BADGLEY MISCHKA COLLECTION",
+      "product_name": "Remi Sandal Heel",
+      "current_front_price": "INR 20,209.27",
+      "price": 20209.27,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c668",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/8286ada0-56e1-4a98-9d58-529494854682.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/ab6fcdd9-bd45-4f20-9fd6-8df0c2079649.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "BADGLEY MISCHKA COLLECTION",
+      "product_name": "Finesse Ankle Heel Sandal",
+      "current_front_price": "INR 21,069.24",
+      "type": "shoes",
+      "price": 21069.24
+    },
+    {
+      "_id": "63a996de53508b3e67c0c669",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/55d232d4-3f28-4c26-ad44-aae4f15d5b04.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/64f8458b-3557-4f76-9298-99e104e274f2.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "MARC FISHER LTD",
+      "product_name": "Zala Block Heel Pump",
+      "current_front_price": "INR 8,255.70",
+      "previous_front_price": "INR 13,755.20",
+      "off_percent": "(42% off)",
+      "price": 8255.7,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c66a",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/0c68deff-a327-48f0-92da-937fb0e51305.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/bca93724-1df0-4fd2-bb61-883454c03375.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "STEVE MADDEN",
+      "product_name": "Irenee Ankle Heel Sandal",
+      "current_front_price": "INR 4,298.99",
+      "previous_front_price": "INR 6,875.45",
+      "off_percent": "(37% off)",
+      "price": 4298.99,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c66b",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/5dcc2810-aace-478f-ae5f-bca932c96d57.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/79de956a-9eb7-421a-9ef6-ea40e4ffe447.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "SAM EDELMAN",
+      "product_name": "Yaro Ankle Heel Sanda",
+      "current_front_price": "INR 4,211.27",
+      "previous_front_price": "INR 11,175.30",
+      "off_percent": "(62% off )",
+      "price": 4211.27,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c66c",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/2e44a4e1-ae29-4157-9666-c9422847972c.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/454f679e-f5be-4d1b-8884-afcf46ec3e28.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "27 EDIT NATURALIZER",
+      "product_name": "Abilyn Ankle Strap Heel",
+      "current_front_price": "INR 4,815.83",
+      "previous_front_price": "INR 12,039.57",
+      "off_percent": "(60% off)",
+      "price": 4815.83,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c66d",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/9d28b5c1-15da-4d02-b1a1-cf9d21729c51.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/a3d1cf3c-6331-4023-9e89-92b88b7bde2d.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "SOREL",
+      "product_name": "Madson II Waterproof Boot",
+      "current_front_price": "INR 13,544.51",
+      "previous_front_price": "INR 18,059.35",
+      "off_percent": "(25% off)",
+      "price": 13544.51,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c66e",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/d7aed55b-1ae4-444d-999e-0ecce6ee3de8.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/33a3d892-651f-4973-9eb1-78f465b618c8.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "UGG®",
+      "product_name": "Neumel Chelsea Boot",
+      "current_front_price": "INR 12,035.27",
+      "type": "shoes",
+      "price": 12035.27
+    },
+    {
+      "_id": "63a996de53508b3e67c0c66f",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/302780e6-5e30-4d53-bf09-7af33f7eb20d.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/6670f360-a3c6-463b-bf27-c7df9d99e88c.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "JOHNSTON & MURPHY",
+      "product_name": "Barrett Water Resistant Boot",
+      "current_front_price": "INR 15,909.43",
+      "type": "shoes",
+      "price": 15909.43
+    },
+    {
+      "_id": "63a996de53508b3e67c0c670",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/dc76efc5-606e-498c-8110-aec83c3f8517.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/66505d82-a398-4205-9beb-a786fa3762b5.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "BP.",
+      "product_name": "Water Resistant Chelsea Boot",
+      "current_front_price": "INR 8,595.39",
+      "type": "shoes",
+      "price": 8595.39
+    },
+    {
+      "_id": "63a996de53508b3e67c0c671",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/0188ae7a-d48e-4b78-a256-668842e0bddb.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/c2387048-a8c1-4900-9c85-549365938316.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "DR. MARTENS",
+      "product_name": "1460 Combat Boot",
+      "current_front_price": "INR 10,964.60",
+      "previous_front_price": "INR 14,619.47",
+      "off_percent": "(25% off)",
+      "price": 10964.6,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c672",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/c68c03d9-155d-449a-b01b-8914f875eed2.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/8218e2a3-2061-443b-badd-18c0c0b17d8d.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "UGG®",
+      "product_name": "UGG Emmett Waterproof Snow Boot",
+      "current_front_price": "INR 12,035.27",
+      "price": 12035.27,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c673",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/ae92e477-26fe-4536-a901-6835e2f1f534.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/8cf1771b-a9d6-4c12-96ef-0f54658a949e.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "JOHNSTON & MURPHY",
+      "product_name": "Upton Chukka Boot",
+      "current_front_price": "INR 14,189.49",
+      "type": "shoes",
+      "price": 14189.49
+    },
+    {
+      "_id": "63a996de53508b3e67c0c674",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/663c96fc-e497-4428-9931-24603ca201b1.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/8b3c15ae-1ee2-4b49-a8bc-1f1cee5548b3.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "BP.",
+      "product_name": "Brayden Lug Chelsea Boot",
+      "current_front_price": "INR 3,868.14",
+      "previous_front_price": "INR 7,735.42",
+      "off_percent": "(49% off)",
+      "price": 3868.14,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c675",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/ec1bdf4b-9687-46ea-8ab3-7006ba97a1fe.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/6fb28e4d-bb80-4022-bcb8-4879a71a4af9.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "ON",
+      "product_name": "Cloud 5 Running Shoe (Women)",
+      "current_front_price": "INR 12,038.71",
+      "type": "shoes",
+      "price": 12038.71
+    },
+    {
+      "_id": "63a996de53508b3e67c0c676",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/13c5bb3c-7993-4a23-8fcc-6ee754a2e754.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/0dce0b60-d9cd-41a7-84b1-149b3ae0bd83.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "HOKA",
+      "product_name": "Clifton 8 Running Shoe (Women)",
+      "current_front_price": "INR 12,039.57",
+      "type": "shoes",
+      "price": 12039.57
+    },
+    {
+      "_id": "63a996de53508b3e67c0c677",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/193eea05-309b-42d9-9d25-7cd6d0e2c896.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/76fc5cbd-5350-4d0c-bcdd-7a9c9191dd71.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "RAG & BONE",
+      "product_name": "Retro Hiker Mid Top Sneaker (Women)",
+      "current_front_price": "INR 25,369.09",
+      "type": "shoes",
+      "price": 25369.09
+    },
+    {
+      "_id": "63a996de53508b3e67c0c678",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/b3afeb26-4aa1-4869-ba78-9897e59ffb64.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/bad54db9-05b7-4c83-837e-0c3f78b8a30e.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "NIKE",
+      "type": "shoes",
+      "product_name": "Daybreak Sneaker (Women)",
+      "current_front_price": "INR 6,962.31",
+      "previous_front_price": "INR 7,739.72",
+      "off_percent": "(19% off)",
+      "price": 6962.31
+    },
+    {
+      "_id": "63a996de53508b3e67c0c679",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/8bf4d5a2-4711-4b16-9dea-a47e9b0bfcef.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/f750fbe7-fd0f-4116-979e-7dbe12d75bf0.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "NIKE",
+      "type": "shoes",
+      "product_name": "Spark Sneaker",
+      "current_front_price": "INR 11,179.60",
+      "price": 11179.6
+    },
+    {
+      "_id": "63a996de53508b3e67c0c67a",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/2fb43814-9a41-4da7-849e-da3313608b96.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/50324d02-25d4-4eea-89f0-4b3c9b909116.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "JORDAN",
+      "product_name": "Nike Air Jordan 11 Retro Sneaker",
+      "current_front_price": "INR 19,349.30",
+      "type": "shoes",
+      "price": 19349.3
+    },
+    {
+      "_id": "63a996de53508b3e67c0c67b",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/4f7b16f0-45d9-4e96-b3be-b2a2d1e82ca0.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/ef07a963-882e-4c30-835e-673ea1724e62.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "NIKE",
+      "product_name": "Air Zoom Pegasus 39 Running Shoe (Women)",
+      "current_front_price": "INR 10,319.63",
+      "type": "shoes",
+      "price": 10319.63
+    },
+    {
+      "_id": "63a996de53508b3e67c0c67c",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/e8043db1-4cdd-4dd2-90e1-96f45b31e0c2.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/356d9bc8-d386-4ded-af0f-b77fddd4859b.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "NIKE",
+      "product_name": "Blazer Mid '77 High Top Sneaker",
+      "current_front_price": "INR 9,029.67",
+      "type": "shoes",
+      "price": 9029.67
+    },
+    {
+      "_id": "63a996de53508b3e67c0c67d",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/6b451fd1-0afe-4001-981c-581c44ea1a27.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/acc0626c-64fe-4464-9776-9235d508e4c1.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "UGG®",
+      "product_name": "Cozy Slipper",
+      "current_front_price": "INR 6,011.18",
+      "previous_front_price": "INR 8,599.69",
+      "off_percent": "(30% off)",
+      "price": 6011.18,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c67e",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/1857b734-3c60-450e-a29e-370982e41179.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/b959232b-8692-4922-bde9-cd54106b5706.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "UGG®",
+      "product_name": "Shearling Lined Boot",
+      "current_front_price": "INR 12,899.54",
+      "type": "shoes",
+      "price": 12899.54
+    },
+    {
+      "_id": "63a996de53508b3e67c0c67f",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/2bd75271-056d-4eb2-95d1-6c269eb8e2bf.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/d251006c-442a-41de-a9c1-8ad9710e22b0.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "UGG®",
+      "product_name": "Ultra Mini Classic Boot",
+      "current_front_price": "INR 12,039.57",
+      "type": "shoes",
+      "price": 12039.57
+    },
+    {
+      "_id": "63a996de53508b3e67c0c680",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/14c06b66-9ec8-48a7-8dc9-dfb9f0ab5be4.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/0c9d7806-9984-4594-bd31-94d5fda62005.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "UGG®",
+      "product_name": "Tazz Mule",
+      "current_front_price": "INR 10,319.63",
+      "type": "shoes",
+      "price": 10319.63
+    },
+    {
+      "_id": "63a996de53508b3e67c0c681",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/f07dbade-1621-4bd0-8b56-5a344aa67b86.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/100d8c46-3d00-497a-8a87-99d7cd81f3e1.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "UGG®",
+      "product_name": "Fluff Yeah Faux Fur Slingback Sandal",
+      "current_front_price": "INR 4,299.85",
+      "previous_front_price": "INR 8,599.69",
+      "off_percent": "(50% off)",
+      "price": 8599.69,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c682",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/0b429b0c-23f3-497c-ae54-f72501e8dd43.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/3f164a47-b5b5-492c-b86f-1f485e85c566.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "BADGLEY MISCHKA COLLECTION",
+      "product_name": "Sophie Ankle Strap Platform Sandal",
+      "current_front_price": "INR 20,209.27",
+      "type": "shoes",
+      "price": 20209.27
+    },
+    {
+      "_id": "63a996de53508b3e67c0c683",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/8482aa49-31fd-476e-a1be-4a68c11c9235.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/f95bef83-a08d-47b6-a059-c7f25facc3fe.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "SAM EDELMAN",
+      "product_name": "Wanda Pointed Toe Flat",
+      "current_front_price": "INR 7,215.14",
+      "previous_front_price": "INR 10,319.63 ",
+      "off_percent": "(30% off)",
+      "price": 7215.14,
+      "type": "shoes"
+    },
+    {
+      "_id": "63a996de53508b3e67c0c684",
+      "front_image": "https://n.nordstrommedia.com/id/sr3/38d77faf-fb1b-4e46-a1c6-1801ccec5120.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "back_image": "https://n.nordstrommedia.com/id/sr3/efdae5db-2f6f-42f7-ba74-68841a4d73f6.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "company_name": "STEVE MADDEN",
+      "product_name": "Trifecta Platform Loafer (Women)",
+      "current_front_price": "INR 5,158.95",
+      "previous_front_price": "INR 8,595.39",
+      "off_percent": "(39% off)",
+      "price": 5158.95,
+      "type": "shoes"
     }
   ],
-  "signup": [
-   
-  ]
+  "signup": []
 }

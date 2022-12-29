@@ -14,10 +14,10 @@ import { NavLink } from "react-router-dom";
 import "../index.css"
 
 const getData = () => {
-    return axios("http://localhost:8081/products?type=men");
+    return axios("http://localhost:8081/products?type=shoes");
 };
 
-function ProductSliderMen() {
+function ProductSlidershoes() {
     const [product, setProduct] = useState([]);
 
     useEffect(() => {
@@ -47,7 +47,7 @@ function ProductSliderMen() {
                             m={1}
                             h={"350px"}
                         >
-                            <Image h={"200px"} width={900} bgSize={"cover"} className="img" src={user.front_image} />
+                            <Image h="200px" width={900} bgSize={"cover"} className="img" src={user.front_image} />
                             {/* <Flex mb={2}> */}
                             <Box marginTop={"5px"} textAlign={{ base: "null", sm: "left", md: "left", lg: "center" }}>
                                 <Text fontSize={{ base: "15px", sm: "15px", md: "18px", lg: "16px" }} fontWeight={"bold"}>{user.company_name}</Text>
@@ -67,4 +67,4 @@ function ProductSliderMen() {
     );
 }
 
-export default ProductSliderMen;
+export default ProductSlidershoes;

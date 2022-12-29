@@ -1,4 +1,4 @@
-import { Flex, VStack, Image, Box, Text,HStack,Spacer } from "@chakra-ui/react"
+import { Flex,SimpleGrid, VStack, Image, Box, Text,HStack,Spacer } from "@chakra-ui/react"
 import {Icon} from "@chakra-ui/icons";
 import SmartphoneTwoToneIcon from '@mui/icons-material/SmartphoneTwoTone';
 import {BsInstagram} from "react-icons/bs"
@@ -7,10 +7,11 @@ import {SiTwitter} from "react-icons/si";
 import {CiFacebook} from "react-icons/ci"
 export default function Footer() {
     return <Box padding={"5px"}  marginTop="10px" bg= "#f9f9f9">
-        <Flex gap={"25px"} flexDirection={"row"} >
+        {/* <Flex gap={"25px"} flexDirection={"row"} > */}
+        <SimpleGrid p={"20px"} columns={{ base: "1", sm: "2", md: "3", lg: "6" }} gap={"20px"}>
         
-                <VStack fontSize={"18px"} >
-                    <Text fontWeight={"400"} color={"black.600"} fontSize={"23px"}>Customer Service</Text>
+                <VStack fontSize={{base:"13px",sm:"15px",md:"15px",lg:"18px"}} >
+                    <Text fontWeight={"700"} color={"black.600"} fontSize={{base:"18px",sm:"18px",md:"20px",lg:"21px"}}>Customer Service</Text>
                     <Text>Contact Us</Text>
                     <Text>Order Status</Text>
                     <Text>Shipping</Text>
@@ -23,8 +24,8 @@ export default function Footer() {
             
 
         
-                <VStack fontSize={"18px"}>
-                    <Text fontWeight={"400"} color={"black.600"} fontSize={"23px"}>About Us</Text>
+                <VStack fontSize={{base:"13px",sm:"15px",md:"15px",lg:"18px"}}>
+                    <Text fontWeight={"700"} color={"black.600"} fontSize={{base:"18px",sm:"18px",md:"20px",lg:"21px"}}>About Us</Text>
                     <Text>All Brands</Text>
                     <Text>Careers</Text>
                     <Text>Corporate Social Responsibility</Text>
@@ -36,8 +37,8 @@ export default function Footer() {
                 </VStack>
             
         
-                <VStack fontSize={"18px"}>
-                    <Text fontWeight={"400"} color={"black.600"} fontSize={"23px"}>Store & Services</Text>
+                <VStack fontSize={{base:"13px",sm:"15px",md:"15px",lg:"18px"}}>
+                    <Text fontWeight={"700"} color={"black.600"} fontSize={{base:"18px",sm:"18px",md:"20px",lg:"21px"}}>Store & Services</Text>
                     <Text>Find a Store</Text>
                     <Text>Find Style Help</Text>
                     <Text>Alterations & Tailoring</Text>
@@ -49,16 +50,16 @@ export default function Footer() {
                 </VStack>
             
         
-                <VStack fontSize={"18px"}>
-                    <Text fontWeight={"400"} color={"black.600"} fontSize={"23px"}>Nordstrom Card & Rewards</Text>
+                <VStack fontSize={{base:"13px",sm:"15px",md:"15px",lg:"18px"}}>
+                    <Text fontWeight={"700"} color={"black.600"} fontSize={{base:"18px",sm:"18px",md:"20px",lg:"21px"}}>Nordstrom Card & Rewards</Text>
                     <Text>The Nordy Club Rewards</Text>
                     <Text>Pay My Bill</Text>
                     <Text>Manage My Nordstrom Card</Text>
                 </VStack>
             
         
-                <VStack fontSize={"18px"}>
-                    <Text fontWeight={"400"} color={"black.600"} fontSize={"23px"}>Nordstrom, Inc.</Text>
+                <VStack fontSize={{base:"13px",sm:"15px",md:"15px",lg:"18px"}}>
+                    <Text fontWeight={"700"} color={"black.600"} fontSize={{base:"18px",sm:"18px",md:"20px",lg:"21px"}}>Nordstrom, Inc.</Text>
                     <Text>Nordstrom Rack</Text>
                     <Text>Nordstrom Canada</Text>
                     <Text>Investor Relations</Text>
@@ -67,7 +68,7 @@ export default function Footer() {
                 </VStack>
                  
 
-                <VStack marginTop={"10px"} marginLeft={"80px"} marginRight={"10px"} fontSize={"18px"}>
+                <VStack marginTop={"10px"} marginLeft={"80px"} marginRight={"10px"} fontSize={{base:"13px",sm:"15px",md:"15px",lg:"18px"}}>
                     <HStack><Icon as={SmartphoneTwoToneIcon}/><Text fontWeight={"400"} color={"black.600"} fontSize={"16px"}>Get Our  Apps</Text></HStack>
                     <HStack>
                       <Icon  as = {BsInstagram}/>
@@ -77,6 +78,7 @@ export default function Footer() {
                     </HStack>
                 </VStack>
             
-        </Flex>
+        {/* </Flex> */}
+        </SimpleGrid>
     </Box>
 }

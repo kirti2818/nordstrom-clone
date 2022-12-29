@@ -31,9 +31,9 @@ import {
     console.log("Product=>", product);
   
     return (
-      <Box  h={"auto"
+      <Box marginTop={"20px"} h={"auto"
       } className="slider">
-        <Box border={"2px solid black"} className="slide-track">
+        <Box  className="slide-track">
           {product.map((user) => (
             <NavLink to={`/product/${user.id}`}>
             <Flex
