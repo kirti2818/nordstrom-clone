@@ -14,7 +14,7 @@ import {
   import "../index.css"
   
   const getData = () => {
-    return axios("http://localhost:8081/products?type=womenActiveWear");
+    return axios("https://nordstrom-api.onrender.com/products?type=womenActiveWear");
   };
   
   function ProductSlider() {

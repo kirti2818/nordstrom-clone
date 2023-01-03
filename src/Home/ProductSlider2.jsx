@@ -14,7 +14,7 @@ import { NavLink } from "react-router-dom";
 import "../index.css"
 
 const getData = () => {
-    return axios("http://localhost:8081/products?type=men");
+    return axios("https://nordstrom-api.onrender.com/products?type=men");
 };
 
 function ProductSliderMen() {
