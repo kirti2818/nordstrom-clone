@@ -24,7 +24,7 @@ export default function Active() {
     
     return (
         <>
-        <Select  onChange={handleSorting} marginLeft={"78%"}  w={"20%"} >
+        <Select fontSize={{base:"14px",sm:"14px",md:"16px",lg:"16px"}}  onChange={handleSorting} marginLeft={{base:"48%",sm:"68%",md:"72%",lg:"78%"}}  w={{base:"50%",sm:"30%",md:"25%",lg:"20%"}} >
   <option value="">Sort By Features</option>
   <option  value="desc">Sort by Price: High to Low</option>
   <option value="asc">Sort by Low to High</option>
