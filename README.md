@@ -1,4 +1,5 @@
-![Nordstrom](https://n.nordstrommedia.com/alias/nordstrom-logo.svg)
+<!-- ![Nordstrom](https://n.nordstrommedia.com/alias/nordstrom-logo.svg) -->
+<img width="500" alt="image" src="https://n.nordstrommedia.com/alias/nordstrom-logo.svg" />
 
 # Clone of nordstrom.com
 
@@ -26,7 +27,7 @@ All the images, icons, and links have taken from the original website (https://w
 
 ## Landing Page
 
--Desktop View
+<!-- -Desktop View -->
 <img width="710" alt="image" src="https://i.postimg.cc/MG7KDc3f/Screenshot-18.png" />
 
 <!-- -Mobile View
@@ -36,7 +37,7 @@ All the images, icons, and links have taken from the original website (https://w
 This is the landing page of my website. You can see and choose all latest and trending top products from here.
 
 ## SignUp Page
--Desktop View
+<!-- -Desktop View -->
 <img width="710" alt="image" src="https://i.postimg.cc/ht9fC3fG/Screenshot-19.png" />
 
 <!-- -Mobile View
@@ -46,7 +47,7 @@ You can signup with my website from here .
 
 ## Login Page
 
--Desktop View
+<!-- -Desktop View -->
 <img width="710" alt="image" src="https://i.postimg.cc/FFLddRNc/Screenshot-20.png" />
 
 <!-- -Mobile View
@@ -56,7 +57,7 @@ You can signup with my website from here .
 You can login to my website from here by entering required details.
 
 ## Product Page
--Desktop View
+<!-- -Desktop View -->
 <img width="710" alt="image" src="https://i.postimg.cc/zXkfKHML/Screenshot-21.png" />
 
 <!-- -Mobile View
@@ -65,7 +66,7 @@ You can login to my website from here by entering required details.
 Here, you can choose a category of products whatever you want and you can sort product by price.
 
 ## SingleProduct Page
--Desktop View
+<!-- -Desktop View -->
 <img width="710" alt="image" src="https://i.postimg.cc/9Qty4fP1/Screenshot-22.png" />
 
 <!-- -Mobile View
@@ -73,7 +74,7 @@ Here, you can choose a category of products whatever you want and you can sort p
 
 Here, you can see all of your products which are added into cart.
 ## Cart page
--Desktop View
+<!-- -Desktop View -->
 <img width="710" alt="image" src="https://i.postimg.cc/43fFLyXF/Screenshot-23.png" />
 
 <!-- -Mobile View
