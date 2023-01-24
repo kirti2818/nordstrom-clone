@@ -109,7 +109,7 @@ Go to the project directory
   cd nordstrom-clone
 ```
 
-Install dependencies for frontend as well as backend
+Install dependencies
 
 ```bash
   npm install
