@@ -23,6 +23,20 @@ To make this clone we have used HTMl, CSS and JavaScript, ReactJS for front-end.
 
 All the images, icons, and links have taken from the original website (https://www.nordstrom.com/)
 
+<br/>
+
+## 🚀 Features
+-   whole website is fully Responsive.
+-   Landing Page & Footer.
+-   Login and Signup Page with Express,mongodb,Nodejs & React.
+-   Product Filters Based on Brand and Discount
+-   Product Details in brief manner.
+-   Product Sorting Based on Price, Rating
+-   Product Filtering and Sorting works together
+-   Cart Add and Remove Items
+-   Cart Update Quantities
+-   Order Summary
+
 # Snapshots of My Project 📸
 
 ## Landing Page
@@ -80,13 +94,46 @@ Here, you can see all of your products which are added into cart.
 <!-- -Mobile View
 <img width="225" alt="image" src="https://i.postimg.cc/kMt5TX1c/Screenshot-30.png" /> -->
 
-## Summary Page
 
-# Limitations
+## Run Locally
 
-Complete Website is Fully Responsive.
+Clone the project
 
-# End Notes
+```bash
+  git clone https://github.com/kirti2818/nordstrom-clone.git
+```
 
-In this project i have tried to a perfect clone of the original website as much as possible with very limited knowledge of front-end.
-This entire journey of making the project was awesome. I learned lots of things by applying to the real website and it gave us a lot of confidence.
+Go to the project directory
+
+```bash
+  cd nordstrom-clone
+```
+
+Install dependencies for frontend as well as backend
+
+```bash
+  cd frontend
+  npm install
+```
+
+```bash
+  cd backend
+  npm install
+```
+
+Start the localhost server
+
+```bash
+  cd frontend
+  npm start
+```
+
+## Deployed link
+
+### Vercel Link
+
+https://nordstrom-mu.vercel.app/
+
+## Show your support
+
+Give a ⭐️ if you like this project!
