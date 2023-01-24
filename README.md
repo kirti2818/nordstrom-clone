@@ -112,20 +112,11 @@ Go to the project directory
 Install dependencies for frontend as well as backend
 
 ```bash
-  cd frontend
   npm install
 ```
 
 ```bash
-  cd backend
-  npm install
-```
-
-Start the localhost server
-
-```bash
-  cd frontend
-  npm start
+ npm start
 ```
 
 ## Deployed link
