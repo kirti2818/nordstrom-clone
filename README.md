@@ -1,6 +1,6 @@
 Nordstrom Beauty Products & Clothes Website.
 
-![Logo](<img src = "https://n.nordstrommedia.com/alias/nordstrom-logo.svg"/>)
+![Logo] <img src = "https://n.nordstrommedia.com/alias/nordstrom-logo.svg" alt = "Nordstrom"/>
 
 <h3 align="center">It's a Full Stack healthcare web application with all the major functionalities</h3>
 
