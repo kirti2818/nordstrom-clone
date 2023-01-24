@@ -29,7 +29,6 @@ All the images, icons, and links have taken from the original website (https://w
 -   whole website is fully Responsive.
 -   Landing Page & Footer.
 -   Login and Signup Page with React and Redux.
--   Product Filters Based on Brand and Discount
 -   Product Details in brief manner.
 -   Product Sorting Based on Price.
 -   Add Item to Cart
