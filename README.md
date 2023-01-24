@@ -1,6 +1,6 @@
-5 MG Healthcare & Product Website.
+Nordstrom Beauty Products & Clothes Website.
 
-![Logo](https://i.postimg.cc/B696yn9C/5mglogo-removebg-preview.png)
+![Logo](https://n.nordstrommedia.com/alias/nordstrom-logo.svg)
 
 <h3 align="center">It's a Full Stack healthcare web application with all the major functionalities</h3>
 
