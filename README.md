@@ -28,14 +28,11 @@ All the images, icons, and links have taken from the original website (https://w
 ## 🚀 Features
 -   whole website is fully Responsive.
 -   Landing Page & Footer.
--   Login and Signup Page with Express,mongodb,Nodejs & React.
+-   Login and Signup Page with React and Redux.
 -   Product Filters Based on Brand and Discount
 -   Product Details in brief manner.
--   Product Sorting Based on Price, Rating
--   Product Filtering and Sorting works together
--   Cart Add and Remove Items
--   Cart Update Quantities
--   Order Summary
+-   Product Sorting Based on Price.
+-   Add Item to Cart
 
 # Snapshots of My Project 📸
 
